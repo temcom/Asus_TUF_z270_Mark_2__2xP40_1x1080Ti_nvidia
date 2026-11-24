@@ -191,7 +191,7 @@ to:
 ```text
 _Y1X
 ```
-
+TODO: newer version of iasl
 throughout the affected resource section.
 
 
@@ -281,6 +281,10 @@ Explanation:
 | acpi_override | Load the custom DSDT before kernel initialization |
 
 
+
+# Step 6b - cachyos
+TODO: cd /etc; vim sdboot-manage.conf
+ sdboot-manage gen
 
 ---
 
